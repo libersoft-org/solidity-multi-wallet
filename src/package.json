@@ -1,0 +1,19 @@
+{
+ "dependencies": {
+  "node-fetch": "^2",
+  "@openzeppelin/contracts": "*",
+  "@nomiclabs/hardhat-ethers": "*",
+  "@nomiclabs/hardhat-etherscan": "*",
+  "@nomiclabs/hardhat-waffle": "*",
+  "@typechain/hardhat": "*",
+  "@typechain/ethers-v5": "*",
+  "@types/mocha": "*",
+  "chai": "*",
+  "ethereum-waffle": "*",
+  "ethers": "*",
+  "hardhat": "*",
+  "typescript": "*",
+  "ts-node": "*",
+  "typechain": "*"
+ }
+}

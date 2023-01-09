@@ -1,0 +1,12 @@
+src/artifacts/
+src/cache/
+src/node_modules/
+src/typechain/
+src/typechain-types/
+src/.apikey_*
+src/.secret
+src/*.log
+src/package-lock.json
+src/verify.sh
+.git/
+.secret_git
