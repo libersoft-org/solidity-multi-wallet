@@ -4,7 +4,7 @@ This smart contract distributes tokens that are sent into it to multiple wallets
 
 ## Development status
 
-Working smart contract with some deployment bugs - please see [**TODO**](./TODO.md) file.
+Working smart contract.
 
 ## Installation
 
